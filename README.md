@@ -6,3 +6,16 @@
 <h4> 📫 How to reach me: Feel free to drop me a message here on GitHub or reach out via c.a.p.quidenao@gmail.com </h4>
 
 
+# Technologies Used
+
+- ![HTML5](https://www.chartjs.org/)
+- 
+- ![CSS3](url_to_css3_image) CSS3
+- ![JavaScript](url_to_js_image) JavaScript
+- ![React](url_to_react_image) React
+- ![Node.js](url_to_node_image) Node.js
+- ![Express](url_to_express_image) Express.js
+- ![MongoDB](url_to_mongodb_image) MongoDB
+
+
+https://www.chartjs.org/
