@@ -9,4 +9,4 @@
 # Technologies Used
 - <img src="https://upload.wikimedia.org/wikipedia/commons/3/38/HTML5_Badge.svg" alt="Logo" width="50"/>
 - <img src="https://upload.wikimedia.org/wikipedia/commons/6/62/CSS3_logo.svg" alt="Logo" width="50"/>
-- <img src="https://freebiesupply.com/logos/react-logo-2/" alt="Logo" width="50"/>
+- <img src="https://www.google.com/search?q=imagen+react&tbm=isch&hl=es-419&chips=q:imagen+react,g_1:logo:HOhtiOuKhFU%3D&rlz=1C1CHBD_esCL1080CL1081&sa=X&ved=2ahUKEwiopczo0dqDAxWTOLkGHUHcCCsQ4lYoAHoECAEQNA&biw=1349&bih=607#imgrc=DXs6dLnIZzTo8M" alt="Logo" width="50"/>
