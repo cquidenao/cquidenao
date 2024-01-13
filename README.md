@@ -8,7 +8,7 @@
 
 # Technologies Used
 <img src="https://upload.wikimedia.org/wikipedia/commons/3/38/HTML5_Badge.svg" alt="Logo" width="50"/>
-
+<img src="https://upload.wikimedia.org/wikipedia/commons/6/62/CSS3_logo.svg" alt="Logo" width="50"/>
 
 - ![CSS3](url_to_css3_image) CSS3
 - ![JavaScript](url_to_js_image) JavaScript
