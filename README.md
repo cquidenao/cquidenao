@@ -7,7 +7,7 @@
 
 
 # Technologies Used
-<img src="https://icon-icons.com/es/icono/HTML5/102567.png" alt="Logo" width="200"/>
+<img src="https://upload.wikimedia.org/wikipedia/commons/3/38/HTML5_Badge.svg" alt="Logo" width="200"/>
 
 
 - ![CSS3](url_to_css3_image) CSS3
