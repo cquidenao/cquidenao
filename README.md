@@ -7,8 +7,9 @@
 
 
 # Technologies Used
+<img src="https://upload.wikimedia.org/wikipedia/commons/6/61/HTML5_logo_and_wordmark.svg" alt="Logo" width="200"/>
 
-- ![HTML5](https://upload.wikimedia.org/wikipedia/commons/6/61/HTML5_logo_and_wordmark.svg) HTML5
+
 - ![CSS3](url_to_css3_image) CSS3
 - ![JavaScript](url_to_js_image) JavaScript
 - ![React](url_to_react_image) React
