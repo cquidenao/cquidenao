@@ -8,7 +8,7 @@
 
 # Technologies Used
 
-- ![HTML5](https://www.google.com/search?sca_esv=598160927&rlz=1C1CHBD_esCL1080CL1081&sxsrf=ACQVn0_6aLXf6y9bo3xQMEZJeFeS27b4kg:1705157537040&q=imagen+html+5&tbm=isch&chips=q:imagen+html5,g_1:logo:FQ-7CNt7FaI%3D&usg=AI4_-kQUQDVaw4QKJlnf9bb5icEF8nPijg&sa=X&sqi=2&ved=2ahUKEwiX2Z_qztqDAxXnrZUCHawnDycQgIoDKAB6BAgIEA8&biw=1366&bih=607&dpr=1#imgrc=O2LAft90i-2uhM) HTML5
+- ![HTML5](https://es.m.wikipedia.org/wiki/Archivo:HTML5_logo_and_wordmark.svg) HTML5
 - ![CSS3](url_to_css3_image) CSS3
 - ![JavaScript](url_to_js_image) JavaScript
 - ![React](url_to_react_image) React
