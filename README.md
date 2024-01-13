@@ -9,10 +9,4 @@
 # Technologies Used
 - <img src="https://upload.wikimedia.org/wikipedia/commons/3/38/HTML5_Badge.svg" alt="Logo" width="50"/>
 - <img src="https://upload.wikimedia.org/wikipedia/commons/6/62/CSS3_logo.svg" alt="Logo" width="50"/>
-- <img src="https://es.wikipedia.org/wiki/React#/media/Archivo:React.svg" alt="Logo" width="50"/>
 
-- ![JavaScript](url_to_js_image) JavaScript
--
-- ![Node.js](url_to_node_image) Node.js
-- ![Express](url_to_express_image) Express.js
-- ![MongoDB](url_to_mongodb_image) MongoDB
