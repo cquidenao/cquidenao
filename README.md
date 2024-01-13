@@ -6,7 +6,3 @@
 <h4> 📫 How to reach me: Feel free to drop me a message here on GitHub or reach out via c.a.p.quidenao@gmail.com </h4>
 
 
-# Technologies Used
-- <img src="https://upload.wikimedia.org/wikipedia/commons/3/38/HTML5_Badge.svg" alt="Logo" width="50"/>
-- <img src="https://upload.wikimedia.org/wikipedia/commons/6/62/CSS3_logo.svg" alt="Logo" width="50"/>
-- <img src="https://www.pngwing.com/en/free-png-azbzv" alt="Logo" width="50"/>
