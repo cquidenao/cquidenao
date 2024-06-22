@@ -1,7 +1,22 @@
 <h1 align="center"> 👋 Hi, I’m Catalina Quidenao (@cquidenao) </h1>
+¡Bienvenido a mi perfil de GitHub! Soy un desarrolladora principiante apasionada por la tecnología y el aprendizaje continuo. Aquí encontrarás algunos de los proyectos en los que he estado trabajando y mis intereses en desarrollo de software.
 
-<h4> 👀 I’m interested in crafting digital experiences and solving real-world problems through code. </h4>
-<h4> 🌱 I’m currently learning the ins and outs of full-stack development, diving into both frontend and backend technologies.</h4>
-<h4> 💞️ I’m looking to collaborate on open-source projects or anything that challenges me to grow as a developer.</h4>
-<h4> 📫 How to reach me: Feel free to drop me a message here on GitHub or reach out via c.a.p.quidenao@gmail.com </h4>
+## 🚀 Sobre mí
 
+- 🌱 Actualmente estoy aprendiendo **nestJS, AWS, PostgreSQL, Python, Odoo**.
+- 💼 Abierto a colaboraciones y contribuciones en proyectos interesantes.
+- 📫 Puedes contactarme en **c.a.p.quidenao@gmail.com**.
+- ⚡ Me gusta **ir al GYM y nadar**.
+
+## 🔧 Tecnologías y Herramientas
+
+- **Lenguajes de Programación**: HTML, CSS, JavaScript, Python
+- **Frameworks**: React, Bootstrap
+- **Herramientas de Desarrollo**: Git, GitHub, VS Code
+
+## 📫 Cómo Contactarme
+
+- **Correo electrónico**: c.a.p.quidenapo@gmail.com
+- **LinkedIn**: https://www.linkedin.com/in/catalinapobletequidenao/
+
+¡Gracias por visitar mi perfil! Siéntete libre de explorar mis proyectos y no dudes en contactarme si quieres colaborar o simplemente charlar sobre tecnología. ¡Feliz codificación! 😊
