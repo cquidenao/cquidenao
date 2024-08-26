@@ -28,7 +28,9 @@
   <a href="https://tailwindcss.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="Tailwind CSS" width="40" height="40"/> </a>
   <a href="https://www.python.org/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/python/python-icon.svg" alt="Python" width="40" height="40"/> </a>
   <a href="https://firebase.google.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="Firebase" width="40" height="40"/> </a>
+  <a href="https://pjreddie.com/darknet/yolo/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/pjreddie/pjreddie-icon.svg" alt="YOLO" width="40" height="40"/> </a>
 </p>
+
 
 
 
