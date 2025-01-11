@@ -1,15 +1,22 @@
-<h1 align="center"> 👋 ¡Hola! Soy Catalina Quidenao (@cquidenao) </h1>
-<p align="center">Una apasionada desarrolladora fullstack</p>
+# ¡Hola! 👋 Soy Catalina Andrea Quidenao Poblete
 
-- 🌟 Actualmente estoy trabajando en **Inclusive Group**
-- 🌱 Actualmente estoy aprendiendo **NestJS, AWS y Python**
-- 🤝 Busco colaboración en **proyectos interesantes**
-- 💬 Pregúntame sobre **desarrollo web y móvil**
-- 📫 Cómo contactarme: **c.a.p.quidenao@gmail.com**
+🌟 Desarrolladora web fullstack apasionada por la tecnología y la innovación.
 
-### Conéctate conmigo:
+## 🚀 Proyectos destacados
+- [IVI Solar Analysis](https://github.com/tu-usuario/ivi-solar-analysis): Sistema para detectar errores térmicos y visuales en paneles solares con informes PDF interactivos.
+- [Gestor de Tareas](https://github.com/tu-usuario/gestor-tareas): Aplicación fullstack para la gestión eficiente de tareas.
+- [InstaBot Automation](https://github.com/tu-usuario/instabot): Herramienta para automatizar seguimientos en Instagram con Flask.
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/catalinapobletequidenao/)
+## 🛠️ Tecnologías
+- Lenguajes: JavaScript, Python, Node.js
+- Frameworks: React.js, Flask, Tailwind CSS
+- Bases de datos: MongoDB
+- Otros: Git, APIs REST, Flutter (en progreso)
+
+## 🌐 Encuéntrame en
+- [LinkedIn]([https://linkedin.com/in/tu-perfil](https://www.linkedin.com/in/catalinapobletequidenao/))
+- Correo: c.a.p.quidenao@gmail.com
+
 
 ### Lenguajes y Herramientas:
 
