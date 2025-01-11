@@ -14,7 +14,7 @@
 - Otros: Git, APIs REST, Flutter (en progreso)
 
 ## 🌐 Encuéntrame en
-- [LinkedIn]([https://linkedin.com/in/tu-perfil](https://www.linkedin.com/in/catalinapobletequidenao/))
+- [LinkedIn]([https://linkedin.com/in/tu-perfil](https://www.linkedin.com/in/catalinapobletequidenao/)
 - Correo: c.a.p.quidenao@gmail.com
 
 
